@@ -1,0 +1,27 @@
+{
+    "name": "average",
+    "description": "Given an array of positive numbers, calculate its average",
+    "timesSolved": 0,
+    "languagesInformation": [
+        {
+            "languageName": "c#",
+            "extension": "cs",
+            "milisecondsAllowd": 2000,
+            "entryPoint": "",
+            "headersAllowed": ""
+        },
+        {
+            "languageName": "c++",
+            "extension": "cpp",
+            "milisecondsAllowd": 1000,
+            "entryPoint": "",
+            "headersAllowed": ""
+        }
+    ],
+    "testCases": [
+        {}
+    ],
+    "solutions": [
+        {}
+    ]
+}
